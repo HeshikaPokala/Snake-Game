@@ -8,3 +8,4 @@ This project is a classic Snake game implemented in Python using the Turtle grap
 - Snake grows longer and increases the score upon eating food.
 - Game over when the Snake collides with the walls or its own tail.
 - Increasing difficulty levels as the Snake levels up.
+- When current score is greater than the highest score (0), then it keeps updating by overwriting the previous value from `data.txt` and is displayed the next time the game is played.
